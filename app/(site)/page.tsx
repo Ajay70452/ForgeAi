@@ -15,10 +15,10 @@ import Testimonial from "@/components/Testimonial";
 import PortfolioGrid from "@/components/Portfolio";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter Template for SaaS Startups - Solid SaaS Boilerplate",
+  title: "Welcome to Forge AI",
 
   // other metadata
-  description: "This is Home for Solid Pro"
+  description: ""
 };
 
 export default function Home() {
