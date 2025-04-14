@@ -15,7 +15,7 @@ import Testimonial from "@/components/Testimonial";
 import PortfolioGrid from "@/components/Portfolio";
 
 export const metadata: Metadata = {
-  title: "Welcome to Forge AI",
+  title: "Welcome to Obsidian AI",
 
   // other metadata
   description: ""

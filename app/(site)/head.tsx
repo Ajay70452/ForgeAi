@@ -1,9 +1,9 @@
 export default function Head() {
   return (
     <>
-      <title> Forge AI</title>
+      <title> Obsidian AI</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="Built with Next.js and TypeScript" />
+      <meta name="description" content="Innovate your business with us" />
       
     </>
   );

@@ -30,16 +30,16 @@ const Footer = () => {
               >
                 <a href="/" className="relative">
                   <Image
-                    width={110}
-                    height={80}
-                    src="/images/logo/Forge.png"
+                    width={130}
+                    height={90}
+                    src="/images/logo/cover.png"
                     alt="Logo"
                     className="dark:hidden"
                   />
                   <Image
-                    width={110}
-                    height={80}
-                    src="/images/logo/Forge.png"
+                    width={130}
+                    height={90}
+                    src="/images/logo/cover.png"
                     alt="Logo"
                     className="hidden dark:block"
                   />
@@ -54,10 +54,20 @@ const Footer = () => {
                 </p>
                 <a
                   href="#"
-                  className="text-itemtitle font-medium text-black dark:text-white"
+                  className="text-itemtitle font-small text-black dark:text-white"
                 >
-                  ajayraval@roomreveal.in
+                  info@obsidianai.tech
                 </a>
+                
+                <a
+  href="mailto:ajay@obsidianai.tech"
+  className="text-itemtitle font-small text-black dark:text-white block" // Added block for spacing
+>
+  ajay@obsidianai.tech
+</a>
+<p className="text-itemtitle font-small text-black dark:text-white">
+  Phone: +918469131771
+</p>
               </motion.div>
 
               <div className="flex w-full flex-col gap-8 md:flex-row md:justify-between md:gap-0 lg:w-2/3 xl:w-7/12">
