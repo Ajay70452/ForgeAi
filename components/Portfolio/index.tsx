@@ -21,14 +21,9 @@ const portfolioItems = [
     imageUrl: "./images/portfolio/room.png", // Replace with your actual image URL
     liveUrl: "https://www.roomreveal.in/", // Replace with your actual live site URL
   },
+ 
   {
     id: 4,
-    title: "Corporate Speech Solutions",
-    imageUrl: "./images/portfolio/CSS.png", // Replace with your actual image URL
-    liveUrl: "https://corporatespeechsolutions.com/", // Replace with your actual live site URL
-  },
-  {
-    id: 5,
     title: "Rapid Rim",
     imageUrl: "./images/portfolio/rim.png", // Replace with your actual image URL
     liveUrl: "https://rapidrimrepair.com/", // Replace with your actual live site URL
